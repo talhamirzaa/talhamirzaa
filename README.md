@@ -6,8 +6,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Mumbai.
 * 🚀  I'm currently working on [Web based project](http://github.com/talhamirzaa/WebGIS)
-* 🧠  I'm learning React.
-* 🤝  I'm open to collaborating on React projects and AI based projects.
+* 🧠  I'm learning Web Development.
+* 🤝  I'm open to collaborating on Web projects and AI based projects.
 
 #
 [![](https://visitcount.itsvg.in/api?id=talhamirzaa&icon=5&color=12)](https://visitcount.itsvg.in)
