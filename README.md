@@ -29,16 +29,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### Stats:
 
 <a href="http://www.github.com/talhamirzaa">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=talhamirzaa&show_icons=true&hide=issues,contribs&count_private=true&title_color=fff&text_color=000000&icon_color=fff&bg_color=30,614385,516395&hide_border=true&show=prs_merged,prs_merged_percentage&&card_width=200&border_radius=30" alt="talhamirzaa's GitHub stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=talhamirzaa&show_icons=true&hide=issues,contribs&count_private=true&title_color=F5B041&text_color=FFFFFF&icon_color=F5B041&bg_color=90,859398,000000,000000&hide_border=true&show=prs_merged,prs_merged_percentage&&card_width=200&border_radius=30" alt="talhamirzaa's GitHub stats" />
 </a>
 <a href="http://www.github.com/talhamirzaa">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talhamirzaa&stroke=14b8a6&theme=one_dark_pro&ring=f97316&fire=f97316&currStreakNum=14b8a6&currStreakLabel=f97316&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true&border_radius=30&card_width=370&background=30,614385,516395" /></a>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talhamirzaa&stroke=14b8a6&ring=f97316&fire=f97316&currStreakNum=14b8a6&currStreakLabel=f97316&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true&border_radius=30&card_width=370&background=90,859398,000000,000000" /></a>
 
 
 <br/><p></p>
 
 <a align="center" href="http://www.github.com/talhamirzaa">
-<img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhamirzaa&theme=one_dark_pro&title_color=14b8a6&hide_border=false&include_all_commits=true&count_private=false&layout=compact&exclude_repo=YT-Transcript-Summarization,MAD_lab_Exp_01,MAD_Exp_02,MAD_Exp_03,MAD_Exp_04,MAD_Exp_05,MAD_Exp_06,MAD_Exp_07,MAD_mini_Project&border_radius=30" />
+<img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhamirzaa&bg_color=90,859398,000000,000000&text_color=fff&title_color=E9967A&hide_border=false&include_all_commits=true&count_private=false&layout=compact&exclude_repo=YT-Transcript-Summarization,MAD_lab_Exp_01,MAD_Exp_02,MAD_Exp_03,MAD_Exp_04,MAD_Exp_05,MAD_Exp_06,MAD_Exp_07,MAD_mini_Project&border_radius=30" />
 </a>
 
 <!---<a href="http://www.github.com/talhamirzaa">
