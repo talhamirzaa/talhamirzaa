@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ----------------------
 
 * 🌍  I'm based in Mumbai.
-* 🚀  I'm currently working on [Web based project](http://github.com/talhamirzaa/WebGIS)
+* 🚀  Check out my [latest project](https://github.com/talhamirzaa/UC-Game), where I build dynamic and interactive web experience.
 * 💻  Currently working as a professional web developer, building e-commerce websites with a focus on performance and user experience.
 * 🤝  Always open to collaborating on exciting web development and AI projects—let’s build something amazing together!
 
