@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif),I'm Talha Mirza
 ===================================================================================================================================
 
-## Student and Developer
+## Developer and Learner
 ----------------------
 
 * 🌍  I'm based in Mumbai.
 * 🚀  I'm currently working on [Web based project](http://github.com/talhamirzaa/WebGIS)
-* 🧠  I'm learning Web Development.
-* 🤝  I'm open to collaborating on Web projects and AI based projects.
+* 💻  Currently working as a professional web developer, building e-commerce websites with a focus on performance and user experience.
+* 🤝  Always open to collaborating on exciting web development and AI projects—let’s build something amazing together!
 
 #
 [![](https://visitcount.itsvg.in/api?id=talhamirzaa&icon=5&color=12)](https://visitcount.itsvg.in)
